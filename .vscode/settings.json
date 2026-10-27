@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "all_in_one_pipeline.py": true,
+        "Final_Report_.xlsx": true,
+        "Final_Report_Data 1.xlsx": true
+    }
+}
